@@ -5,7 +5,7 @@ A brain tumor is a collection, or mass, of abnormal cells in your brain. Your sk
 The importance of the subject
 Early detection and classification of brain tumors is an important research domain in the field of medical imaging and accordingly helps in selecting the most convenient treatment method to save patients life therefore
 
-This dataset contains 7023 images of human brain MRI images, we have 4 classes:
+I'm using a dataset contains 7023 images of human brain MRI images, we have 4 classes:
 - Glioma
 - Meningioma
 - No tumor
